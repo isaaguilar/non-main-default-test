@@ -14,7 +14,7 @@ locals {
 
 variable "example" {
   description = "Example variable"
-  default     = "hello world"
+  default     = "terraform-operator branch test"
 }
 
 terraform {
